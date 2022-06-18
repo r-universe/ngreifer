@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cobalt",
+    "oncran": true
+  },
+  {
+    "package": "WeightIt",
+    "oncran": true
+  }
+]
