@@ -8,6 +8,11 @@
 	url = https://github.com/ngreifer/cobalt
 	shallow = true
 	registered = true
+[submodule "fwb"]
+	path = fwb
+	url = https://github.com/ngreifer/fwb
+	shallow = true
+	registered = true
 [submodule "WeightIt"]
 	path = WeightIt
 	url = https://github.com/ngreifer/weightit

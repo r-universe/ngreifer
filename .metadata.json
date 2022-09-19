@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "fwb",
+    "oncran": true
+  },
+  {
     "package": "WeightIt",
     "oncran": true
   }
