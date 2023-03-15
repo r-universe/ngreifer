@@ -1,18 +1,18 @@
 [
   {
-    "package": "lmw",
-    "oncran": true
-  },
-  {
-    "package": "WeightIt",
-    "oncran": true
-  },
-  {
     "package": "cobalt",
     "oncran": true
   },
   {
     "package": "fwb",
+    "oncran": true
+  },
+  {
+    "package": "lmw",
+    "oncran": true
+  },
+  {
+    "package": "WeightIt",
     "oncran": true
   }
 ]

@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lmw"]
-	path = lmw
-	url = https://github.com/ngreifer/lmw
-	shallow = true
-	registered = true
-[submodule "WeightIt"]
-	path = WeightIt
-	url = https://github.com/ngreifer/weightit
-	shallow = true
-	registered = true
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/ngreifer/cobalt
@@ -21,5 +11,15 @@
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/ngreifer/fwb
+	shallow = true
+	registered = true
+[submodule "lmw"]
+	path = lmw
+	url = https://github.com/ngreifer/lmw
+	shallow = true
+	registered = true
+[submodule "WeightIt"]
+	path = WeightIt
+	url = https://github.com/ngreifer/weightit
 	shallow = true
 	registered = true
