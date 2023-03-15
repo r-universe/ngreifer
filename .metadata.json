@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "optweight",
+    "oncran": true
+  },
+  {
     "package": "WeightIt",
     "oncran": true
   }

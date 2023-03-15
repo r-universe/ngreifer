@@ -18,6 +18,11 @@
 	url = https://github.com/ngreifer/lmw
 	shallow = true
 	registered = true
+[submodule "optweight"]
+	path = optweight
+	url = https://github.com/ngreifer/optweight
+	shallow = true
+	registered = true
 [submodule "WeightIt"]
 	path = WeightIt
 	url = https://github.com/ngreifer/weightit
