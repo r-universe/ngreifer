@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WeightIt"]
+	path = WeightIt
+	url = https://github.com/ngreifer/weightit
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/ngreifer/cobalt
@@ -14,6 +17,3 @@
 [submodule "optweight"]
 	path = optweight
 	url = https://github.com/ngreifer/optweight
-[submodule "WeightIt"]
-	path = WeightIt
-	url = https://github.com/ngreifer/weightit
