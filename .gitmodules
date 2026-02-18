@@ -5,6 +5,9 @@
 [submodule "WeightIt"]
 	path = WeightIt
 	url = https://github.com/ngreifer/weightit
+[submodule "adrftools"]
+	path = adrftools
+	url = https://github.com/ngreifer/adrftools
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/ngreifer/cobalt
