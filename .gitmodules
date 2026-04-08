@@ -8,6 +8,10 @@
 [submodule "adrftools"]
 	path = adrftools
 	url = https://github.com/ngreifer/adrftools
+[submodule "arg"]
+	path = arg
+	url = https://github.com/ngreifer/arg
+	registered = false
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/ngreifer/cobalt
