@@ -2,12 +2,6 @@
   {
     "package": "arg",
     "url": "https://github.com/ngreifer/arg",
-    "via": ["WeightIt"],
-    "from": "WeightIt"
-  },
-  {
-    "package": "arg",
-    "url": "https://github.com/ngreifer/arg",
     "via": ["optweight"],
     "from": "optweight"
   }
