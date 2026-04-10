@@ -11,7 +11,6 @@
 [submodule "arg"]
 	path = arg
 	url = https://github.com/ngreifer/arg
-	registered = false
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/ngreifer/cobalt
