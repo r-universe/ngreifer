@@ -11,6 +11,9 @@
 [submodule "arg"]
 	path = arg
 	url = https://github.com/ngreifer/arg
+[submodule "bartisan"]
+	path = bartisan
+	url = https://github.com/ngreifer/bartisan
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/ngreifer/cobalt
